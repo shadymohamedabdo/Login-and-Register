@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38491930657",
+    "project_id": "shady-dce4c",
+    "storage_bucket": "shady-dce4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38491930657:android:fcc2b674fcf457265fa360",
+        "android_client_info": {
+          "package_name": "com.example.shady"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhN9xnbYSSybIPzzQSYXYljFzXTMaLkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
